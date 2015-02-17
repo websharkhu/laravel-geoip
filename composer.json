@@ -1,5 +1,5 @@
 {
-    "name": "torann/geoip",
+    "name": "websharkhu/geoip",
     "description": "Supports the two main GeoIP services (infoDB and Maxmind).",
     "keywords": ["laravel", "laravel4", "geoip", "location", "geolocation"],
 	"license": "BSD 2-Clause",
